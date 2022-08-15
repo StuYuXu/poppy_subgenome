@@ -52,6 +52,14 @@ m.max = apply(YMR[,2:7],1,max)
 quantile(m.var, probs = seq(0, 1, 0.01))
 YMR = YMR[which(m.max>=1),]
 
+ 
+for (i in 2:7) {
+  HN1[,i] <- log2(HN1[,i]+1)
+}
+
+for (i in 2:7) {
+  YMR[,i] <- log2(YMR[,i]+1)
+}
 
 write.table(HN1,"/RNASEQ/HN1_TPM_express.csv",
             sep = ",",col.names = T,row.names = F,quote = F)
