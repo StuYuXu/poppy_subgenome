@@ -4,4 +4,4 @@
 In this research, we used *P. somniferum* as a model system to study of the evolution of coding sequences, noncoding regulatory sequences and transcriptome following recent WGD event, respectively and their relationship interactively.
 
 ## Contact
-If you have any questions, please contact with Yu Xu (stu.yuxu@gmail.com) or Kai Ye (kaiye@xjtu.edu.cn).
+If you have any questions, please contact with Kai Ye (kaiye@xjtu.edu.cn), Bo Wang (wangboxjtu@xjtu.edu.cn) or Yu Xu (stu.yuxu@gmail.com).
